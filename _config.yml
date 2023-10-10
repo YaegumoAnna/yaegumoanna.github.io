@@ -11,8 +11,8 @@ github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "但行好事，莫问前程。"
-sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "我就想试试。"
+sidebar-avatar: /img/post-me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
