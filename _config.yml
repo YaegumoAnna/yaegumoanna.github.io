@@ -1,5 +1,5 @@
 # Site settings
-title: Anna's Blog
+title: Anna's Taskforce
 SEOTitle: No.71 Anna and Ray
 header-img: img/post-bg-index1.jpg
 email: una.tong@msn.com
@@ -19,7 +19,7 @@ sidebar-avatar: /img/s2.jpg      # use absolute URL, seeing it's used in both `/
 # SNS settings
 RSS: false
 #weibo_username:     xxxxx
-zhihu_username:     Anna童
+zhihu_username:     tong-wen-xuan
 github_username:    yaegumoanna
 # facebook_username:  username
 # jianshu_username:   jianshu_id
