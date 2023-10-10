@@ -1,10 +1,10 @@
 # Site settings
 title: Anna's Blog
-SEOTitle: No.71 Anna's Blog
+SEOTitle: No.71 Anna and Ray
 header-img: img/post-bg-index1.jpg
 email: una.tong@msn.com
 description: "Every failure is leading towards success."
-keyword: "Anna, Hou, Java"
+keyword: "Anna, Ray, Java, Life, Python"
 url: "https://yaegumoanna.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我就想试试。"
-sidebar-avatar: /img/post-me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/s2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
