@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Anna, Ray, Java, Life, Python"
 url: "https://yaegumoanna.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
+github_repo: "https://github.com/YaegumoAnna/yaegumoanna.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
