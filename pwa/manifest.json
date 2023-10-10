@@ -3,7 +3,7 @@
   "short_name": "Anna Blog",
   "description": "A personal blog",
   "icons": [{
-    "src": "icons/pwa1.png",
+    "src": "icons/icon.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
