@@ -1,11 +1,11 @@
 # Site settings
-title: Will Wang's Blog
-SEOTitle: 王志彪的博客
+title: Anna's Blog
+SEOTitle: No.71 Anna's Blog
 header-img: img/post-bg-index.jpg
-email: wzbcode@163.com
+email: una.tong@msn.com
 description: "Every failure is leading towards success."
-keyword: "王志彪的博客, Will Wang, 王志彪, Java"
-url: "https://flyingwzb.github.io/"          # your host, for absolute URL
+keyword: "Anna, Hou, Java"
+url: "https://yaegumoanna.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
 
@@ -18,7 +18,7 @@ sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     wzb1994
+weibo_username:     xxxxx
 zhihu_username:     zongguanxian
 github_username:    flyingwzb
 # facebook_username:  username
